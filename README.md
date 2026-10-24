@@ -1,3 +1,5 @@
+**Português** | [English](README.en.md)
+
 <h1 align="center"> Livros de Programação 📚</br><i>Programming Books</i></h1>
 
 
